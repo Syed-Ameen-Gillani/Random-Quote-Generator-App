@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Qoutes App</string>
+    <string name="title_activity_quotes">QuotesActivity</string>
+</resources>
